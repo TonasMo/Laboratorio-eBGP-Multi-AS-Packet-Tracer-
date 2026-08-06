@@ -1,5 +1,5 @@
 Projeto de simulação de roteamento dinâmico externo **eBGP (External BGP)** interligando 4 Sistemas Autónomos (AS 1, AS 2, AS 3 e AS 4),
-numa topologia em anel com links seriais e GigaEthernet.
+numa topologia em anel com links seriais e GigabitEthernet.
 
 ## 📐 Estrutura da Rede
 
